@@ -1,7 +1,7 @@
 ---
 title: "Who Was Thoth? The Egyptian God of Wisdom Explained"
 description: "Reality is not made of atoms, but of words. Explore the myth of Thoth, the invention of writing, and the terrifying judgment of the Hall of Ma'at."
-pubDate: "Feb 18 2026"
+pubDate: "Feb 17 2026"
 heroImage: "/blog-placeholder-3.jpg"
 layout: "../../layouts/BlogPost.astro"
 ---
